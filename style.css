@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-bkash{
+  background: #e0196c;
+}
+body{
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #e0196c;
+ 
+  
+}
+  .container {
+    margin-top: 50px;
+  }
+  .showbox {
+    padding: 10px;
+    margin: 10px;
+  }
+  .button{
+    color: #f9f9f9;
+    font-weight: 600;
+    
+  }
+  .button:hover{
+    background: #e0196c;
+    color: #f9f9f9;
+  }
+  
+  
+ 
+
+
